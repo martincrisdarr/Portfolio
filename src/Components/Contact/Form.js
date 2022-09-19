@@ -1,17 +1,14 @@
 import React from "react";
 
-
 function Form() {
-  
-  
   return (
     <div className="w-full h-screen flex flex-col justify-center items-center robotoCondensed">
-      <h1 className="text-white text-[80px]  -left- md:right-32 opacity-20  tracking-wider">
+      <h1 className="text-yellow-500 text-[80px]  -left- md:right-32   tracking-wider">
         CONTACT
       </h1>
       <form
-       method="POST"
-       action="https://getform.io/f/8152f953-66d0-428b-892e-111c60a19972"
+        method="POST"
+        action="https://getform.io/f/8152f953-66d0-428b-892e-111c60a19972"
         className="w-[500px] h-[70%] flex flex-col justify-between items-center gap-y-4  px-16  rounded-md shadow-xl "
       >
         <label

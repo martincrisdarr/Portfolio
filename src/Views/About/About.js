@@ -15,7 +15,7 @@ function About() {
         />
       </div>
       <div className="w-full h-full relative flex flex-col items-start justify-center md:mt-8 px-12  ">
-        <h1 className="text-white text-[80px] opacity-20 tracking-wider ">
+        <h1 className="text-yellow-500 text-[80px] tracking-wider ">
           ABOUT ME
         </h1>
         <p className="md:mt-8 h-full tracking-wide text-[28px] leading-relaxed">

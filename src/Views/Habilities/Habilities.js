@@ -9,7 +9,7 @@ function Habilities() {
         name="habilities"
         className="w-screen md:mt-24 h-screen lg:mb-42  flex justify-center items-center robotoCondensed"
       >
-        <h1 className="text-white text-[80px] absolute -left-40 md:left-8 opacity-20 -rotate-90 tracking-wider">
+        <h1 className="text-yellow-500 text-[80px] absolute -left-40 md:left-8 -rotate-90 tracking-wider">
           HABILITIES
         </h1>
         <HabilitiesSquare />

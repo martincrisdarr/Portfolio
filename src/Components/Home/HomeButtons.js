@@ -23,5 +23,4 @@ function HomeButtons() {
     </>
   );
 }
-
 export default HomeButtons;
