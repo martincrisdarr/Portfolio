@@ -6,7 +6,6 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { animateScroll as scroll, Link } from "react-scroll";
 import resume from "../../Assets/resume.pdf";
 import ToTop from "./ToTop";
-import { useEffect } from "react";
 
 function Navbar() {
   const [menu, setMenu] = useState(false);
@@ -22,9 +21,7 @@ function Navbar() {
     }
   };
   window.addEventListener("scroll", changeNavbar);
-  useEffect(() => {
-    scroll.scrollToTop();
-  }, []);
+
   return (
     <>
       {/* ---------------------------------- TOP NAVBAR ----------------------------------  */}
