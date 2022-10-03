@@ -21,8 +21,7 @@ function About() {
         <p className="md:mt-8 h-full tracking-wide text-[28px] leading-relaxed">
           Hi! My name is Martin and i'm from Argentina. <br /> I started
           studying in january of 2022 in Coderhouse. I made Web Development and
-          Javascript, but then i continue learning React by my own. Actually im
-          learning React Native for mobile development{" "}
+          Javascript, but then i continue learning React by my own. I am looking for a job that presents me with daily challenges and help me in my personal grow.
         </p>
       </div>
     </div>
